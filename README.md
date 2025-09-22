@@ -189,11 +189,3 @@ RAG-Chatbot/
 ## 📝 License
 
 This project is created for educational and demonstration purposes.
-
-## 🤝 Contributing
-
-Feel free to submit issues, feature requests, or pull requests to improve the chatbot.
-
-## 📞 Support
-
-For questions or issues, please refer to the troubleshooting section or create an issue in the project repository.
